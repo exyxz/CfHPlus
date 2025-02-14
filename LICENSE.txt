@@ -1,0 +1,21 @@
+Copyright (c) 2024-2025 Kacper Gibas.
+
+Anyone is free to use, copy, modify, and distribute copies of the Asset
+Pack, with or without fee, and by any means.
+
+In jurdictions that recognize copyright laws, the author of the Asset Pack
+dedicate any and all copyright interest in the Asset Pack to the public
+domain.
+
+THE ASSET PACK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE ASSET PACK OR THE USE OR OTHER DEALINGS IN THE ASSET PACK.
+
+Copyright (c) 2018 Gre3nGoon.
+
+The original files are provided as .xcf files made with GIMP with no explicit
+permission. If the original author wants to delete/remove/destroy the
+repository, the current author will.
